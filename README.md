@@ -28,9 +28,7 @@ cCapture is a lightweight screen capture utility designed for quick and efficien
 ## Usage
 
 - Launch the application.
-- Select the capture mode.
-- Use the hotkey or UI button to take a screenshot.
-- Find your screenshots in the output folder.
+- Use the hotkey to exit.
 
 ## Contributing
 
